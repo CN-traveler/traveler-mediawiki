@@ -1,0 +1,10 @@
+{
+  "name": "mediawiki",
+  "repository": "https://github.com/CN-traveler/traveler-mediawiki/tree/main",
+  "keywords": [
+    "wiki",
+    "heroku"
+  ],
+  "success_url": "/",
+  "stack": "container"
+}
