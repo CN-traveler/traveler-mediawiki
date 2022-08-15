@@ -2,7 +2,7 @@
   "name": "mediawiki",
   "repository": "https://github.com/CN-traveler/traveler-mediawiki/tree/main",
   "keywords": [
-    "wiki",
+    "mediawiki",
     "heroku"
   ],
   "success_url": "/",
